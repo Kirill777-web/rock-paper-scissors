@@ -11,23 +11,24 @@ N/A
 ## Usage
 
 To play the Rock Paper Scissors game, follow these simple steps:
-Open the index.html file in your preferred web browser.
 
-A prompt box will appear, asking you to choose between "rock," "paper," or "scissors." Enter your choice and click "OK."
+- Open the index.html file in your preferred web browser.
 
-The computer will randomly select its choice.
+-A prompt box will appear, asking you to choose between "rock," "paper," or "scissors." Enter your choice and click "OK."
 
-An alert box will appear, displaying the result of the game (win, lose, or tie) and the choices made by you and the computer.
+-The computer will randomly select its choice.
 
-Enjoy playing and challenge yourself to make the best decisions to win the game!
+-An alert box will appear, displaying the result of the game (win, lose, or tie) and the choices made by you and the computer.
 
-This is the link of my [GitHub app](https://kirill777-web.github.io/rock-paper-scissors/)
-This is the link of my [GitHub repository](https://github.com/Kirill777-web/rock-paper-scissors)
+-Enjoy playing and challenge yourself to make the best decisions to win the game!
+
+-This is the link of my [GitHub app](https://kirill777-web.github.io/rock-paper-scissors/)
+-This is the link of my [GitHub repository](https://github.com/Kirill777-web/rock-paper-scissors)
 
 ## Credits
 
-This is link of UNB course section JavaScript [UNB](https://courses.bootcampspot.com/courses/3974)
-This is link of MDN documentation [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+-This is link of UNB course section JavaScript [UNB](https://courses.bootcampspot.com/courses/3974)
+-This is link of MDN documentation [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 
 ## Mock-Up
 
