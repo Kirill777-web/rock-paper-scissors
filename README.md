@@ -21,7 +21,7 @@ An alert box will appear, displaying the result of the game (win, lose, or tie) 
 
 Enjoy playing and challenge yourself to make the best decisions to win the game!
 
-This is the link of my [GitHub app](https://github.com/Kirill777-web/web-dev-journey)
+This is the link of my [GitHub app](https://kirill777-web.github.io/rock-paper-scissors/)
 This is the link of my [GitHub repository](https://github.com/Kirill777-web/rock-paper-scissors)
 
 ## Credits
