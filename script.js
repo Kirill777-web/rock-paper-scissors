@@ -30,6 +30,7 @@ let playGame = function () {
   // If a user choice is not R,P,S it's going to show invalid choice!
   if (userChoice !== 'R' && userChoice !== 'P' && userChoice !== 'S') {
     alert('Invalid choice!');
+    playGame(); //Repeat game!
     return;
   }
 
