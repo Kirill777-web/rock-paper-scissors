@@ -30,10 +30,6 @@ To play the Rock Paper Scissors game, follow these simple steps:
 -This is link of UNB course section JavaScript [UNB](https://courses.bootcampspot.com/courses/3974)
 -This is link of MDN documentation [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 
-## Mock-Up
-
-N/A
-
 ## License
 
 Copyright (c) 2023 Kirill Lazutin
